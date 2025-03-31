@@ -55,6 +55,7 @@ public class CircularArrayQueue<E> implements Queue<E> {
         return false;
     }
 
+
     @Override
     public void clear() {
 
